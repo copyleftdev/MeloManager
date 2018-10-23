@@ -21,7 +21,7 @@ class MeloManager(object):
         for toggle in toggle_events:
             steps.append(toggle)
 
-        sorted_steps = sorted(steps, key=lambda k: k['Timestamp'])
+        sorted_steps = sorted(steps, reverse=True, key=lambda k: k['Timestamp'])
 
         master_record = {"device": device, "screen_resolution": screen_res,
                          "steps": sorted_steps}
