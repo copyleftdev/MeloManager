@@ -1,0 +1,330 @@
+{
+    "AppData": {
+        "Device": "MacBookPro11,3",
+        "ScreenSize": {
+            "x": 581.0,
+            "y": 1265.0,
+            "z": 0.0
+        },
+        "AppVersion": "1.0",
+        "UnityVersion": "2017.2.0f3",
+        "Server": ""
+    },
+    "EventModels": {
+        "TouchEvents": [
+            {
+                "EventType": "ButtonClickEvent",
+                "ComponentType": "UnityEngine.UI.Button",
+                "GameObjectName": "Canvas/Organizer/Button",
+                "SceneName": "TestScene",
+                "Timestamp": 131847059997308180,
+                "_touchPoint": {
+                    "x": 708.5078125,
+                    "y": 402.9375,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.5251851677894592,
+                    "y": 0.5543328523635864,
+                    "z": 0.0
+                }
+            },
+            {
+                "EventType": "TouchUpEvent",
+                "ComponentType": "UnityEngine.RectTransform;UnityEngine.CanvasRenderer;UnityEngine.UI.Image;UnityEngine.UI.Button;",
+                "GameObjectName": "Canvas/Organizer/Button",
+                "SceneName": "TestScene",
+                "Timestamp": 131847059997290260,
+                "_touchPoint": {
+                    "x": 708.5078125,
+                    "y": 402.9375,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.5251851677894592,
+                    "y": 0.5543328523635864,
+                    "z": 0.0
+                }
+            },
+            {
+                "EventType": "TouchDownEvent",
+                "ComponentType": "UnityEngine.RectTransform;UnityEngine.CanvasRenderer;UnityEngine.UI.Image;UnityEngine.UI.Button;",
+                "GameObjectName": "Canvas/Organizer/Button",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060013474470,
+                "_touchPoint": {
+                    "x": 715.01953125,
+                    "y": 328.63671875,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.529629647731781,
+                    "y": 0.4525447189807892,
+                    "z": 0.0
+                }
+            },
+            {
+                "EventType": "TouchUpEvent",
+                "ComponentType": "UnityEngine.RectTransform;UnityEngine.CanvasRenderer;UnityEngine.UI.Image;UnityEngine.UI.Dropdown;",
+                "GameObjectName": "Canvas/Organizer/Dropdown",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060014233060,
+                "_touchPoint": {
+                    "x": 715.01953125,
+                    "y": 328.63671875,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.529629647731781,
+                    "y": 0.4525447189807892,
+                    "z": 0.0
+                }
+            },
+            {
+                "EventType": "TouchDownEvent",
+                "ComponentType": "UnityEngine.RectTransform;UnityEngine.UI.Toggle;UnityEngine.UI.Dropdown+DropdownItem;",
+                "GameObjectName": "Canvas/Organizer/Dropdown/Dropdown List/Viewport/Content/Item 1: Option B",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060545149950,
+                "_touchPoint": {
+                    "x": 690.1484375,
+                    "y": 293.13671875,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.5111111402511597,
+                    "y": 0.40302613377571108,
+                    "z": 0.0
+                }
+            },
+            {
+                "EventType": "TouchUpEvent",
+                "ComponentType": "UnityEngine.RectTransform;UnityEngine.UI.Toggle;UnityEngine.UI.Dropdown+DropdownItem;",
+                "GameObjectName": "Canvas/Organizer/Dropdown/Dropdown List/Viewport/Content/Item 1: Option B",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060546228090,
+                "_touchPoint": {
+                    "x": 690.1484375,
+                    "y": 293.13671875,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.5111111402511597,
+                    "y": 0.40302613377571108,
+                    "z": 0.0
+                }
+            },
+            {
+                "EventType": "TouchDownEvent",
+                "ComponentType": "UnityEngine.RectTransform;UnityEngine.CanvasRenderer;UnityEngine.UI.Image;UnityEngine.UI.Dropdown;",
+                "GameObjectName": "Canvas/Organizer/Dropdown",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060569113270,
+                "_touchPoint": {
+                    "x": 639.9921875,
+                    "y": 220.34765625,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.4740740656852722,
+                    "y": 0.3026134669780731,
+                    "z": 0.0
+                }
+            },
+            {
+                "EventType": "TouchUpEvent",
+                "ComponentType": "UnityEngine.RectTransform;UnityEngine.UI.Toggle;",
+                "GameObjectName": "Canvas/Organizer/Toggle",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060569834500,
+                "_touchPoint": {
+                    "x": 639.74609375,
+                    "y": 220.10546875,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.4740740656852722,
+                    "y": 0.3026134669780731,
+                    "z": 0.0
+                }
+            },
+            {
+                "EventType": "TouchDownEvent",
+                "ComponentType": "UnityEngine.RectTransform;UnityEngine.UI.Toggle;",
+                "GameObjectName": "Canvas/Organizer/Toggle",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060581366810,
+                "_touchPoint": {
+                    "x": 636.9140625,
+                    "y": 218.1953125,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.4718518555164337,
+                    "y": 0.29986244440078738,
+                    "z": 0.0
+                }
+            },
+            {
+                "EventType": "TouchUpEvent",
+                "ComponentType": "UnityEngine.RectTransform;UnityEngine.UI.Toggle;",
+                "GameObjectName": "Canvas/Organizer/Toggle",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060582275080,
+                "_touchPoint": {
+                    "x": 636.9140625,
+                    "y": 218.1953125,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.4718518555164337,
+                    "y": 0.29986244440078738,
+                    "z": 0.0
+                }
+            },
+            {
+                "EventType": "TouchDownEvent",
+                "ComponentType": "UnityEngine.RectTransform;UnityEngine.UI.Toggle;",
+                "GameObjectName": "Canvas/Organizer/Toggle",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060587110290,
+                "_touchPoint": {
+                    "x": 654.03125,
+                    "y": 280.5625,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.48444443941116335,
+                    "y": 0.3865199387073517,
+                    "z": 0.0
+                }
+            },
+            {
+                "EventType": "TouchUpEvent",
+                "ComponentType": "UnityEngine.RectTransform;UnityEngine.CanvasRenderer;UnityEngine.UI.Image;UnityEngine.UI.InputField;",
+                "GameObjectName": "Canvas/Organizer/InputField",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060587795120,
+                "_touchPoint": {
+                    "x": 654.96484375,
+                    "y": 276.76953125,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.4851851761341095,
+                    "y": 0.38101789355278017,
+                    "z": 0.0
+                }
+            },
+            {
+                "EventType": "TouchDownEvent",
+                "ComponentType": "UnityEngine.RectTransform;UnityEngine.CanvasRenderer;UnityEngine.UI.Image;UnityEngine.UI.InputField;",
+                "GameObjectName": "Canvas/Organizer/InputField",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060620471100,
+                "_touchPoint": {
+                    "x": 879.9921875,
+                    "y": 238.97265625,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.6518518328666687,
+                    "y": 0.32874828577041628,
+                    "z": 0.0
+                }
+            }
+        ],
+        "TextInputEvents": [
+            {
+                "EventType": "TextInputEvent",
+                "ComponentType": "UnityEngine.UI.InputField",
+                "GameObjectName": "Canvas/Organizer/InputField",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060612839340,
+                "PropertyName": "text",
+                "NewValue": "testinput"
+            }
+        ],
+        "DropdownEvents": [
+            {
+                "EventType": "DropdownEvent",
+                "ComponentType": "UnityEngine.UI.Dropdown",
+                "GameObjectName": "Canvas/Organizer/Dropdown",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060546327120,
+                "_touchPoint": {
+                    "x": 690.1484375,
+                    "y": 293.13671875,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.5111111402511597,
+                    "y": 0.40302613377571108,
+                    "z": 0.0
+                },
+                "PropertyName": "value",
+                "NewIntValue": 1,
+                "NewStringValue": "Option B"
+            }
+        ],
+        "ToggleEvents": [
+            {
+                "EventType": "ToggleEvent",
+                "ComponentType": "UnityEngine.UI.Toggle",
+                "GameObjectName": "Canvas/Organizer/Dropdown/Dropdown List/Viewport/Content/Item 1: Option B",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060546341910,
+                "_touchPoint": {
+                    "x": 690.1484375,
+                    "y": 293.13671875,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.5111111402511597,
+                    "y": 0.40302613377571108,
+                    "z": 0.0
+                },
+                "PropertyName": "isOn",
+                "NewValue": true
+            },
+            {
+                "EventType": "ToggleEvent",
+                "ComponentType": "UnityEngine.UI.Toggle",
+                "GameObjectName": "Canvas/Organizer/Toggle",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060569913500,
+                "_touchPoint": {
+                    "x": 639.74609375,
+                    "y": 220.10546875,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.4740740656852722,
+                    "y": 0.3026134669780731,
+                    "z": 0.0
+                },
+                "PropertyName": "isOn",
+                "NewValue": false
+            },
+            {
+                "EventType": "ToggleEvent",
+                "ComponentType": "UnityEngine.UI.Toggle",
+                "GameObjectName": "Canvas/Organizer/Toggle",
+                "SceneName": "TestScene",
+                "Timestamp": 131847060582335170,
+                "_touchPoint": {
+                    "x": 636.9140625,
+                    "y": 218.1953125,
+                    "z": 0.0
+                },
+                "_touchPointNormalized": {
+                    "x": 0.4718518555164337,
+                    "y": 0.29986244440078738,
+                    "z": 0.0
+                },
+                "PropertyName": "isOn",
+                "NewValue": true
+            }
+        ]
+    }
+}
